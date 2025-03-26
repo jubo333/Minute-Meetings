@@ -1,0 +1,6 @@
+# Define the environment
+sdk: gradio
+python_version: 3.10
+
+# Commands to install dependencies
+app_file: app.py

@@ -1,0 +1,14 @@
+gradio
+pyaudio
+wave
+openai-whisper
+noisereduce
+numpy
+transformers
+torch
+langdetect
+reportlab
+soundfile
+textwrap3
+textwrap
+soundfile
